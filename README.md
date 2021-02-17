@@ -1,2 +1,2 @@
-# DIGILIB-A-Digital-Learning-Platform
+# HRUTHIK31.DIGILIB-A-Digital-Learning-Platform
 A Digital Learning Platform- (web application)[group project] :: html,css,bootstrap,javascript,flask ● Developing an online platform where we can share and gain knowledge easily. ● Making books and video lectures easily accessible for every student. ● Giving access to the students to share their notes with everyone. ● Organising every book according to the subject.
